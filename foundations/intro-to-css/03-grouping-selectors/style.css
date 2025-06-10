@@ -1,0 +1,15 @@
+/* CSS Style */
+
+.clickMe, .noClickMe {
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.clickMe {
+  color: #fff;
+  background-color: #000;
+}
+
+.noClickMe {
+  background-color: yellow;
+}

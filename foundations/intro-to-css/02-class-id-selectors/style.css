@@ -1,0 +1,20 @@
+/* CSS Styles */
+
+.classMain {
+  background-color: rgb(255, 140, 140);
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.anotherClass {
+  font-size: 24px;
+}
+
+#number2 {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+#number4 {
+  background-color: rgb(140, 255, 140);
+  font-weight: 700;
+}
